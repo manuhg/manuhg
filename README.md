@@ -1,4 +1,6 @@
 ### Hi there 👋
+Nice of you to stop by here!
+Please feel free to visit my portfolio website at [manuhegde.in](https://manuhegde.in)
 
 <!--
 **manuhg/manuhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
